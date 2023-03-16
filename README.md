@@ -1,0 +1,2 @@
+# VendingMachineKata
+Vending Machine Kata
