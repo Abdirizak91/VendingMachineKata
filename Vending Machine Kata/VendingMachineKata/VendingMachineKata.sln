@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachineKata", "VendingMachineKata\VendingMachineKata.csproj", "{9E4CB892-9881-4506-9DE8-FDE7D70FF344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachineKataTests", "VendingMachineKataTests\VendingMachineKataTests.csproj", "{4A529E93-D8D3-4EB2-AAE7-C577F9AFAE04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E4CB892-9881-4506-9DE8-FDE7D70FF344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4CB892-9881-4506-9DE8-FDE7D70FF344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4CB892-9881-4506-9DE8-FDE7D70FF344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4CB892-9881-4506-9DE8-FDE7D70FF344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A529E93-D8D3-4EB2-AAE7-C577F9AFAE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A529E93-D8D3-4EB2-AAE7-C577F9AFAE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A529E93-D8D3-4EB2-AAE7-C577F9AFAE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A529E93-D8D3-4EB2-AAE7-C577F9AFAE04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
